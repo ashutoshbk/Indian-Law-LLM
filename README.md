@@ -1,7 +1,4 @@
 # Indian-Law-LLM
-AI-powered tool using a Language Model to classify crimes under the Indian Penal Code (IPC), providing relevant sections, procedures, and recommendations.
-
-# LLM Indian Law IPC Project
 
 ## Overview
 This project involves the use of a Language Model (LLM) to analyze crimes and determine the corresponding sections of the Indian Penal Code (IPC). The model also provides procedures and recommendations based on the IPC.

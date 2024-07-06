@@ -51,10 +51,3 @@ Based on the input "Theft of a mobile phone from a shop", I analyze the situatio
 - The police should check for any security footage that may have captured the theft.
 
 *Please note that the above procedure and additional recommendations are general guidelines and may vary depending on the specific circumstances of the case and the jurisdiction in which it is being investigated.*
-
-
-## Blog Posts
-Articles and blog posts discussing the project in detail are available in the `blog_posts` directory. These posts cover various aspects of the project, including challenges faced and solutions implemented.
-
-## License
-This project is licensed under the MIT License.

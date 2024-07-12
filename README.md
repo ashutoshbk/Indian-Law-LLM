@@ -3,6 +3,8 @@
 ## Overview
 This project utilizes an open-source language model, Llama3, to assist in the classification of crimes under the Indian Penal Code (IPC). The application processes crime descriptions and identifies relevant IPC sections, procedures, and recommendations. The legal information is extracted from a collection of PDF documents containing all relevant legal acts.
 
+![Project Image](indian_law_llm.png)
+
 ## Project Details
 ### Objective
 The main objective of this project is to develop an AI-based tool that can:
